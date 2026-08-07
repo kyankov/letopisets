@@ -1,0 +1,9 @@
+__pycache__/
+build/
+dist/
+dist_v31/
+*.spec
+config.json
+receipts.json
+exports/
+*.log
