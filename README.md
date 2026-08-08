@@ -1,6 +1,6 @@
 # 📜 Letopisets (Летописец)
 
-**A market statistics console for people who distrust averages** — 8+ years of daily/weekly history for 13 assets (crypto + gold/DXY/S&P500/Russell), sliced into honest, falsifiable views. Built for a Bulgarian crypto YouTube channel whose whole brand is *"the headline lies, the close decides."*
+**A market statistics console for people who distrust averages** — 8+ years of daily/weekly history for 13 assets (crypto + gold/DXY/S&P500/Russell), sliced into honest, falsifiable views. Built for **[@TAkrypto](https://www.youtube.com/@TAkrypto)**, a Bulgarian crypto YouTube channel whose whole brand is *"the headline lies, the close decides."* The numbers in those videos come out of this tool.
 
 *„Летописец" = chronicler. It remembers what price actually did.*
 
@@ -25,7 +25,7 @@
 | 💧 DRAWDOWNS | top drawdowns ≥5% with recovery times + underwater curve |
 | 📅 MATRIX / YEARS | month×year heatmap; every year's path from Jan 1 overlaid with a median path |
 | 🔗 CORRELATIONS | 90-day vs 1-year correlation heatmaps across all 13 assets |
-| 📰 NEWS | reads the append-only headline archive written by [Radiotochka](../radiotochka) — "what was being said while price did that" |
+| 📰 NEWS | reads the append-only headline archive written by [Radiotochka](https://github.com/kyankov/radiotochka) — "what was being said while price did that" |
 
 Every chart exports a branded 1920×1080 PNG for video production. Dark/light themes. Telegram daily reports optional.
 
